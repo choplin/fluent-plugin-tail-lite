@@ -1,4 +1,4 @@
-# Fluent::Plugin::TailLite
+# Fluent::Plugin::TailLite, a plugin for [Fluentd](http://fluentd.org)
 
 This plugin extendis in_tail to emit each line as it is.
 
